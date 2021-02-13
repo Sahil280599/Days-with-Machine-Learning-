@@ -1,4 +1,4 @@
-# Days with Machine Learning [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+# Days with Machine Learning  [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/55251741/105609353-be29f900-5dce-11eb-8ec7-73ddc4be2173.png">
